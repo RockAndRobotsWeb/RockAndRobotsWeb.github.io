@@ -18,7 +18,7 @@ title: Rocks and Robots
 subtitle: "Cursos de programación de Arduino"
 url: "https://rockandrobotsweb.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl: "/rockandrobots"
+baseurl: ""
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 

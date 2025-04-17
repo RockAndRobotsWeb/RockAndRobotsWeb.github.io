@@ -1628,15 +1628,6 @@ img {
 .cid-uIuCf31Vh5 img,
 .cid-uIuCf31Vh5 .item-img {
   width: 100%;
-  height: 100%;
-  height: 200px;
-  object-fit: cover;
-}
-@media (max-width: 767px) {
-  .cid-uIuCf31Vh5 img,
-  .cid-uIuCf31Vh5 .item-img {
-    max-height: 300px;
-  }
 }
 .cid-uIuCf31Vh5 .item:focus,
 .cid-uIuCf31Vh5 span:focus {
@@ -1716,11 +1707,6 @@ img {
   display: flex;
   justify-content: center;
   align-items: center;
-}
-@media (max-width: 768px) {
-  .cid-uIuCf31Vh5 .embla__button {
-    display: none;
-  }
 }
 .cid-uIuCf31Vh5 .embla__button:disabled {
   cursor: default;
